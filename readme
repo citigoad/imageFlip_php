@@ -1,0 +1,22 @@
+This is a face symmetery application.
+
+functionality:
+
+upload an image with file extension jpg (not jpeg and does not support any other image formats).
+image will be displayed when u click submit button. Place the mouse on the image and draw a line on the image some where vertically.
+A new image will be displayed with flipping the first part of the image symmetrically and gives an image. Similarly the second part of the image 
+will be flipped identically and returns the second image.
+
+design:
+
+index.php is used to submit an image and this image is redirected to the flipimage.php.
+'Flipimage.php' This is a web service which accepts an image and its co ordinates and returns the symmetrical images on the same image.
+This flipimage is the web service which can be used in different websites for the same functionality by passing the arguments.
+
+future work:
+
+this can be improved with additional image functionalities like image flipping, image effects like greyscale and with good plug ins and css we can 
+develop it as a good website.
+
+Screenshots: Please check the screenshots for the application in the screenshots folder
+
